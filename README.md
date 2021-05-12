@@ -4,9 +4,9 @@
 
 <img src='' align='left' width='25%'>
 
-<img src='' align='left' width='25%'>
+<img src='https://github.com/desteo/time_ui/blob/main/screenshots/flutter_01.png' align='left' width='25%'>
 
-<img src= '' width='25%'>
+<img src= 'https://github.com/desteo/time_ui/blob/main/screenshots/flutter_02.png' width='25%'>
 
 
 ## Getting Started With Flutter
