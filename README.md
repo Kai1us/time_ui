@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-<img src='' align='left' width='25%'>
+<img src='https://github.com/desteo/time_ui/blob/main/screenshots/layout.gif' align='left' width='25%'>
 
 <img src='https://github.com/desteo/time_ui/blob/main/screenshots/flutter_01.png' align='left' width='25%'>
 
